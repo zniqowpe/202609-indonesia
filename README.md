@@ -2,7 +2,7 @@
 
 2026-09-26 → 10-03，雅加達與日惹八日，兩人同行。
 
-線上瀏覽：<https://zniqowpe.github.io/202609印尼/>
+線上瀏覽：<https://zniqowpe.github.io/202609-indonesia/>
 
 手冊為單頁網站，開啟 `index.html` 即可離線使用，整包資料夾可複製到手機或雲端硬碟。
 
